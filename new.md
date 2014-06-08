@@ -1,6 +1,6 @@
-#is this working? 
+# i am trying to do something
 
-*wtf am i doing? 
-*i still feel pretty cool 
+*but i went too far 
+*i took someones exaples 
 
-what do you think about this? 
+and it caused problems. now i cant do the basicx
